@@ -1,0 +1,19 @@
+body {
+    color: white;
+    background: black;
+}
+
+header {
+    border-bottom: solid 2px purple;
+}
+
+section {
+    background: rgb(40, 139, 159);
+    padding-bottom: 80px;
+    padding-top: 80px;
+    display: flex;
+}
+
+img{
+    height: 200px
+}
